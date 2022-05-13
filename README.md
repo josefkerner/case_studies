@@ -1,2 +1,2 @@
 # case_studies
-Case studies
+Case studies for various projects
